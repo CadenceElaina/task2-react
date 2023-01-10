@@ -1,0 +1,52 @@
+/* *{
+  background: #5585b5;
+  color: white;
+} */
+.text-editor{
+  margin-top: 150px;
+}
+.containerNoQuill{
+  border: 1px solid #bbe4e9;
+  background: #bbe4e9; 
+}
+.toolbar{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.buttonContainer{
+  margin: 0 auto;
+  text-align: center;
+}
+.editor-container{
+  height: 100vh;
+  margin-top: 150px;
+  background: #bbe4e9; 
+ border: #bbe4e9 2px solid;
+}
+.editText{
+  text-align: center;
+  margin: 0 auto;
+}
+.icon{
+  margin: 10px;
+  cursor: pointer;
+}
+.icon:hover{
+ transform: scale(1.1);
+}
+#input{
+  background: #bbe4e9; 
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.bold{
+  font-weight: 600;
+  text-transform: uppercase;
+}
+/* .fill{
+  height: 90px;
+  background: #bbe4e9; 
+} */

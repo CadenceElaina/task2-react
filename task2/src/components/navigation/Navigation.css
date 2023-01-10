@@ -1,0 +1,12 @@
+.nav {
+/*     border: 1px solid white; */
+    margin: 0 auto;
+}
+.link{
+    text-decoration: none;
+    margin: 1rem;
+
+}
+h1{
+    font-size: 26px !important;
+}
